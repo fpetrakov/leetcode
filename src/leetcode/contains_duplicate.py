@@ -1,6 +1,3 @@
-from typing import list
-
-
 class Solution:
     def hasDuplicate(self, nums: list[int]) -> bool:
         seen = {}
